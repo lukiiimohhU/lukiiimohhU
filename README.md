@@ -45,8 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukiiimohh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&custom_title=luk's%20stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukiiimohh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&custom_title=Most%20used%20languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=lukiiimohhU&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lukiiimohhU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
